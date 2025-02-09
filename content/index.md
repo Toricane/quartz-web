@@ -1,5 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Prajwal Prashanth
+description: Prajwal Prashanth's personal portfolio.
 ---
 
 This is a blank Quartz installation.
